@@ -1,5 +1,5 @@
 # Mike's List 📝✨
-The Modern, Community-Driven Marketplace – Inspired by Craigslist, Built by You!
+The Modern, Community-Driven Marketplace – Inspired by Craigslist!
 
 Mike's List is a fresh, reimagined take on the classic classifieds platform. Inspired by the timeless functionality of Craigslist, this project is a gateway for building a versatile, local marketplace where users can buy, sell, trade, or list just about anything. But here’s the twist: we're bringing the spice of modern web architecture, customizable backend features, and an engaging user experience to create something truly unique.
 
